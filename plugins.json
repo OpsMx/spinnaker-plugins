@@ -106,6 +106,21 @@
     ]
   },
   {
+    "id": "Opsmx.EchoEventPlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+    "provider": "https://github.com/opsmx",
+    "releases": [
+        {
+            "version": "1.0.1",
+            "date": "2021-06-24T16:20:59.469168Z",
+            "requires": "orca>=0.0.0,deck>=0.0.0",
+            "sha512sum": "43d2152fcc7e70ac95253e777f87003683bad1d748007060a1584fd62b01572aa38277ebbf2055a968b0e6a0b9ecfc1eb2279db09bd1edb02b259734ffafc450",
+            "state": "",
+            "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.0.4.2-rc5/EchoEventPlugin-v1.0.1-SNAPSHOT.zip"
+        }
+    ]
+  },
+  {
     "id": "Opsmx.StaticPolicyPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
     "provider": "https://github.com/opsmx",
