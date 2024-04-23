@@ -52,7 +52,7 @@
     "provider": "https://github.com/opsmx",
     "releases": [
       {
-        "version": "8.2.0-SNAPSHOT",
+        "version": "8.8.0",
         "date": "2021-03-03T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "4895dbceba8cbf63edca0ff8f2ded0ce011f285baa45ffdbe00421009914834bd9ec75f4b7c6a02fbb4250c0bce9a4f878792a95f66eb64f025993a4e5236f38",
