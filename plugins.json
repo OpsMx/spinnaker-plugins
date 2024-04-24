@@ -55,7 +55,7 @@
         "version": "8.8.0",
         "date": "2021-03-03T16:20:59.469168Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "903f0ad4ac630c423f12d2a48bf2ebd6c2612bdeefe9404a9e363d4e876173a569dbecce7628fd3a94226a21ddcc1d765bc53ccf5ac815b7d3aa29d095ad0054",
+        "sha512sum": "1c2a48390b603eb7d41377eb7dd5104145a2bd513fc6a79314d160f0af3d2b749e3fbbc662cc487ff388b8b93ea261bfee005cdbfe38712107ec28dbe7adc516",
         "state": "",
         "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/main/smoke-test-8.8.0.zip"
       }
