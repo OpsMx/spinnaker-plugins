@@ -9,7 +9,7 @@
             "date": "2024-04-26T08:22:10.307190Z",
             "requires": "echo>=0.0.0",
             "sha512sum": "ac3b40d776ff9769be83ee88cbb106dddc37e3ea35bd7be568daef8caecb7e630a68ff7b423aee5890477116099f817b16e5b521940977b9fff83ab9ab343f2d",
-            "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/main/EchoEventPlugin-v1.0.1-SNAPSHOT.zip"
+            "url": "https://github.com/OpsMx/Customplugins/releases/download/OP-21859_v4.0_Echo_plugin_configuration/EchoEventPlugin-v1.0.1-SNAPSHOT.zip"
         }
     ]
 }
