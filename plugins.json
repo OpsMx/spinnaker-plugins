@@ -8,7 +8,7 @@
             "version": "1.0.2",
             "date": "2024-04-26T08:22:10.307190Z",
             "requires": "echo>=0.0.0",
-            "sha512sum": "5134b9e7a10c1c1c95874ce506f9fa255adfbd97ce68e34aa307efb9b74a48cffdddcaf400920088b706e7ba3fd85b05e1ddaa6d5419a33d0eb939b533173479",
+            "sha512sum": "ac3b40d776ff9769be83ee88cbb106dddc37e3ea35bd7be568daef8caecb7e630a68ff7b423aee5890477116099f817b16e5b521940977b9fff83ab9ab343f2d",
             "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/main/EchoEventPlugin-v1.0.1-SNAPSHOT.zip"
         }
     ]
