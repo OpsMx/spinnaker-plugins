@@ -5,7 +5,7 @@
     "provider": "https://github.com/opsmx",
     "releases": [
         {
-            "version": "v1.0.2",
+            "version": "1.0.2",
             "date": "2024-04-26T08:22:10.307190Z",
             "requires": "echo>=0.0.0",
             "sha512sum": "5134b9e7a10c1c1c95874ce506f9fa255adfbd97ce68e34aa307efb9b74a48cffdddcaf400920088b706e7ba3fd85b05e1ddaa6d5419a33d0eb939b533173479",
