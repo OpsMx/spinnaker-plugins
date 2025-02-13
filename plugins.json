@@ -47,21 +47,6 @@
     ]
   },
   {
-    "id": "Zendesk.SmokeTestPlugin",
-    "description": "An example of a PF4J-based plugin that provides a Zendesk pipeline stage.",
-    "provider": "https://github.com/opsmx",
-    "releases": [
-      {
-        "version": "8.8.0",
-        "date": "2021-03-03T16:20:59.469168Z",
-        "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "95bba70401593b429dd1bf569f2a8d2aedca51cf0c2633ab8463185feb62341395353c574d1319aba2c0caf1ed4b3c4c4c4f54a6844de919054d04317fc700e8",
-        "state": "",
-        "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/main/smoke-test-8.8.0.zip"
-      }
-    ]
-  },
-  {
     "id": "Opsmx.VerificationGatePlugin",
     "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
     "provider": "https://github.com/opsmx",
